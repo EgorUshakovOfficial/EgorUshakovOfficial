@@ -1,8 +1,6 @@
 # Hi👋, I'm Egor 
-
-
-
-
+ 
+### I'm a full-stack web developer who enjoys helping businesses and people solve problems through code.
 
 <!--
 **EgorUshakovOfficial/EgorUshakovOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
